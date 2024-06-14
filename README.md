@@ -1,3 +1,5 @@
+![68747470733a2f2f63646e2e61697264726f70616c6572742e636f6d2f696d616765732f6d657461646174612f64796d656e73696f6e333333333333332e6a706567](https://github.com/kivancbeser/Dymension-Node-Installation/assets/16528400/ab1b3d8a-07f7-47a9-a82d-4657a35b9591)
+
 # Dymension-Mainnet-Node-Guide
 Dymension Mainnet Node Guide
 
