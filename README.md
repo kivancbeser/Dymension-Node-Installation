@@ -17,6 +17,20 @@ https://dymension.explorers.guru/validator/dymvaloper1xt4rtmvqq3pavwjqdgxh74ppcz
 
 https://wallet.keplr.app/?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1xt4rtmvqq3pavwjqdgxh74ppczfj2h084rj58s&step_id=2
 
+## Coinstamp Validator SERVICES AND TOOLS
+API
+https://dymension-api.coinstamp.me	
+
+RPC
+https://dymension-rpc.coinstamp.me	
+
+GRPC
+https://dymension-grpc.coinstamp.me	
+
+SNAPSHOT
+https://dymension-snapshot.coinstamp.me	
+
+
 ### Requirements 
 
 | COMPONENTS | MINIMUM REQUIREMENTS | 
