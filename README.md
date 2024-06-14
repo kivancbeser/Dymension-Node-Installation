@@ -39,10 +39,10 @@ go version
 
 ### Clone project repository and Build Binary
 ```
-cd && rm -rf 0g-chain
-git clone https://github.com/0glabs/0g-chain
-cd 0g-chain
-git checkout v0.1.0
+cd $HOME
+git clone https://github.com/dymensionxyz/dymension.git
+cd dymension
+git checkout v3.1.0
 make install
 ```
 
