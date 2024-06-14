@@ -20,6 +20,13 @@ https://dymension.explorers.guru/
 | RAM	| 16+ GB |
 | Storage	| +500 GB SSD |
 
+### Auto Installation
+```
+wget -q -O dymension.sh https://raw.githubusercontent.com/kivancbeser/Dymension-Node-Installation/blob/main/dymension.sh && chmod +x dymension.sh && ./dymension.sh
+```
+
+### MANUAL Installation Details
+
 ### Update Upgrade Machine
 ```
 sudo apt update && sudo apt upgrade -y
