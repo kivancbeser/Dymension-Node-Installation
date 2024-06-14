@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Starting Dymension Mainnet Installation"
+sudo apt update && sudo apt upgrade -y
 # Ask for validator name
 read -p "Please Enter your validator name: " MONIKERNAME
 
