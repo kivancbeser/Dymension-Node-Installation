@@ -14,7 +14,7 @@ https://dymension.explorers.guru/
 
 | COMPONENTS | MINIMUM REQUIREMENTS | 
 | ------------ | ------------ |
-| CPU |	6|
+| CPU | 8|
 | RAM	| 16+ GB |
 | Storage	| +500 GB SSD |
 
