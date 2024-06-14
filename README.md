@@ -12,6 +12,11 @@ https://discord.gg/2rHJYK9N
 ### Explorer 
 https://dymension.explorers.guru/
 
+### Coinstamp Validator for Staking 
+https://dymension.explorers.guru/validator/dymvaloper1xt4rtmvqq3pavwjqdgxh74ppczfj2h084rj58s
+
+https://wallet.keplr.app/?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1xt4rtmvqq3pavwjqdgxh74ppczfj2h084rj58s&step_id=2
+
 ### Requirements 
 
 | COMPONENTS | MINIMUM REQUIREMENTS | 
